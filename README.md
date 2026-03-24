@@ -32,7 +32,7 @@ Uvicorn
 Requests
 ⚙️ Como rodar o projeto
 1. Clonar o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/GregorioAlencar/SEU-REPO.git
 cd SEU-REPO
 2. Criar ambiente virtual
 python -m venv .venv
